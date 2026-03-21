@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HandTrack</string>
+    <string name="accessibility_service_description">HandTrack uses accessibility to perform tap, scroll, back, and drag gestures on your behalf using hand tracking.</string>
+</resources>
