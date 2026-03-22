@@ -1,0 +1,12 @@
+{
+  "cli": { "version": ">= 3.8.0" },
+  "build": {
+    "preview": {
+      "android": { 
+        "buildType": "apk",
+        "image": "ubuntu-22.04-jdk-17-ndk-r26b"
+      },
+      "node": "18.18.0"
+    }
+  }
+}

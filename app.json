@@ -1,4 +1,9 @@
 {
   "name": "HandTrackApp",
-  "displayName": "HandTrackApp"
+  "displayName": "HandTrackApp",
+  "extra": {
+    "eas": {
+      "projectId": "a67d1378-ffdb-45d4-8e51-60836bff075f"
+    }
+  }
 }
